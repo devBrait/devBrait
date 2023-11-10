@@ -1,5 +1,5 @@
 ## Oii eu sou o Vinícius Brait, estudante de programação e tecnologia!
-<h4>Atualmente estou estagiando com desenvolvimento web ASP.Net no Tribunal de Contas Municipal de São Paulo.</h4>
+<h4>Atualmente estou estagiando com desenvolvimento web .NET no Tribunal de Contas Municipal de São Paulo.</h4>
 <div>
   <a href="https://github.com/devBrait">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devBrait&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
