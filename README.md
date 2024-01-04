@@ -9,7 +9,7 @@ Atualmente estou estagiando com desenvolvimento web .NET no Tribunal de Contas M
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBrait&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
-## Linguagens de Programação
+## Linguagens de Programação que uso no dia a dia e sempre estou estudando
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -34,6 +34,7 @@ Tribunal de Contas do Município de São Paulo • Período Vespertino
 
 ## Onde me encontrar
 
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/viníciusbrait)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorimiervb@gmail.com)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](https://github.com/devBrait/)
+[![Linkedin](https://img.shields.io/badge/-Vinícius%20Brait-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vin%C3%ADciusbrait/)](https://www.linkedin.com/in/vin%C3%ADciusbrait/)
+[![Gmail Badge](https://img.shields.io/badge/-lorimiervb@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lorimiervb@gmail.com)](mailto:lorimiervb@gmail.com)
+[![GitHub](https://img.shields.io/github/followers/devBrait?label=follow&style=social)](https://github.com/devBrait/)
+
