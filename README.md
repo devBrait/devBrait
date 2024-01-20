@@ -1,7 +1,7 @@
 # Olá, eu sou o Vinícius Brait, estudante de programação e tecnologia!
 
 ## Sobre Mim
-Atualmente estou estagiando com desenvolvimento web .NET no Tribunal de Contas Municipal de São Paulo.
+Atualmente estou estagiando com desenvolvimento web .NET no Tribunal de Contas do Município de São Paulo.
 
 ## Estatísticas do GitHub
 <div>
