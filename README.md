@@ -36,8 +36,9 @@ Tribunal de Contas do Município de São Paulo • Período Vespertino
 ### Linguagens & Tecnologias:
 - .NET
 - JavaScript
-- EF Core
 - SQL
+- EF Core
+- Dapper ORM
 - Azure DevOps
 - MVC
 
