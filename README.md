@@ -1,7 +1,7 @@
 # Olá, eu sou o Vinícius Brait, estudante de programação e tecnologia!
 
 ## Sobre Mim
-Atualmente estou estagiando com desenvolvimento web .NET no Tribunal de Contas do Município de São Paulo. Focado em estudar sobre back-end com .NET, também estudando frameworks de front-end com foco em Angular.
+Atualmente estou estagiando com desenvolvimento web .NET no Tribunal de Contas do Município de São Paulo. Focado em estudar sobre back-end com .NET, também estudando frameworks de front-end.
 
 ## Estatísticas do GitHub
 <div>
