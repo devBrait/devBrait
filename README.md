@@ -39,6 +39,7 @@ Tribunal de Contas do Município de São Paulo • Período Vespertino
 - SQL
 - EF Core
 - Dapper ORM
+- Git
 - Azure DevOps
 - MVC
 
