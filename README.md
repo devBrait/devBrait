@@ -5,8 +5,8 @@ Atualmente estou estagiando com desenvolvimento web .NET no Tribunal de Contas d
 
 ## Estatísticas do GitHub
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devBrait&show_icons=true&theme=dark"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBrait&layout=compact&langs_count=7&theme=dark"/>
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=devBrait&show_icons=true&count_private=true&hide_border=true&title_color=ffff&icon_color=58A6FF&text_color=ffff&bg_color=0d1117"/> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devBrait&layout=compact&hide_border=true&title_color=ffff&text_color=ffff&bg_color=0d1117" />
 </div>
 
 ## Linguagens de Programação que uso no dia a dia e sempre estou estudando
