@@ -1,5 +1,5 @@
 # Olá, eu sou o Vinícius Brait, estudante de programação e tecnologia!
-Atualmente estou estagiando com desenvolvimento web .NET no Tribunal de Contas do Município de São Paulo. Focado em estudar sobre back-end com .NET e frameworks de front-end.
+Atualmente estou trabalhando como Engenheiro de Software na ITA Engenharia. Focado em estudar sobre back-end com .NET e frameworks de front-end.
 
 ## Estatísticas do GitHub
 <div>
@@ -25,18 +25,6 @@ Atualmente estou estagiando com desenvolvimento web .NET no Tribunal de Contas d
   <img align="center" alt="Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />     
   <img align="center" alt="Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg">
 </div>
-
-## Experiência de Trabalho
-Tribunal de Contas do Município de São Paulo • Período Vespertino
-
-### Linguagens & Tecnologias:
-- .NET
-- JavaScript
-- SQL Server
-- EF Core
-- Dapper ORM
-- Git
-- Azure DevOps
 
 ## Onde me encontrar
 
